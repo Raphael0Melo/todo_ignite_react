@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -20px;
+}
+
+.input {
+  background: var(--gray-400);
+  color: var(--gray-100);
+  width: 638px;
+  height: 54px;
+  border: 0px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.input::placeholder {
+  color: var(--gray-200);
+}

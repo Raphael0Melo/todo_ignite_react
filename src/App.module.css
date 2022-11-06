@@ -1,0 +1,21 @@
+.app {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.body {
+  width: 736px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: -20px;
+}
+
+.add {
+  display: flex;
+  margin-bottom: 50px;
+}

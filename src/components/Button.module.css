@@ -1,0 +1,21 @@
+.button {
+  width: 90px;
+  height: 54px;
+  border-radius: 5px;
+  background: var(--blue-dark);
+  color: var(--white);
+  border: 0px;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.button:hover {
+  background: var(--blue)
+}
+
+.icon {
+  margin-left: 5px;
+}
